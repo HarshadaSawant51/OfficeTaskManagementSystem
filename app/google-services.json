@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "732165003319",
+    "firebase_url": "https://officemanagementsystem-75476.firebaseio.com",
+    "project_id": "officemanagementsystem-75476",
+    "storage_bucket": "officemanagementsystem-75476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732165003319:android:c405cfab1ad6d139",
+        "android_client_info": {
+          "package_name": "com.example.officetaskmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732165003319-mbrtq0do98tmjh1pt2herbsd47ohaamk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5gMOX20J5oM-ybrJzQRIYcWtaWeYmCCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732165003319-mbrtq0do98tmjh1pt2herbsd47ohaamk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
